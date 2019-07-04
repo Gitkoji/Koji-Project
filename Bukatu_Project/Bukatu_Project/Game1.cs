@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Input;
 /// プロジェクト名がnamespaceとなります
 /// </summary>
 namespace Bukatu_Project
-{
+{//aaa
     /// <summary>
     /// ゲームの基盤となるメインのクラス
     /// 親クラスはXNA.FrameworkのGameクラス
